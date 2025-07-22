@@ -27,7 +27,7 @@ We identified ~10 immune subpopulations, validated using canonical marker genes 
 - Applied **UMAP** for 2D visualization of the scGPT-generated cell embeddings.
 - Performed **Leiden clustering** to detect distinct cell populations.
 
-Image 1: UMAP of scGPT embeddings with Leiden clusters
+UMAP of scGPT embeddings with Leiden clusters
 
 <img width="500" height="431" alt="Image" src="https://github.com/user-attachments/assets/fb1860a2-5915-48b1-bfd0-e9ae1e41e11c" />
 
@@ -42,7 +42,7 @@ Image 1: UMAP of scGPT embeddings with Leiden clusters
   - **Platelet**
 - Visualized both detailed annotations and grouped categories on UMAP plots.
 
-Image 2: Annotated UMAP with immune subtypes and categories
+Annotated UMAP with immune subtypes and categories
 
 <img width="500" height="431" alt="Image" src="https://github.com/user-attachments/assets/a4590525-15ca-4620-a43d-0942895c11be" />
 ---
