@@ -42,7 +42,7 @@ _Image 1: UMAP of scGPT embeddings with Leiden clusters_
 - Visualized both detailed annotations and grouped categories on UMAP plots.
 
 _Image 2: Annotated UMAP with immune subtypes and categories_
-
+<img width="691" height="431" alt="Image" src="https://github.com/user-attachments/assets/a4590525-15ca-4620-a43d-0942895c11be" />
 ---
 
 ## ✅ Results
