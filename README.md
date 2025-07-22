@@ -1,5 +1,3 @@
-# scGPT-based-Single-Cell-RNA-seq-Immune-Cell-Annotation
-
 # Immune Cell Type Annotation from scRNA-seq using scGPT
 
 We applied the **scGPT** transformer-based model to single-cell RNA-seq data to classify and annotate immune cell types from blood samples. This end-to-end pipeline processed ~20,000 cells and leveraged scGPT embeddings for dimensionality reduction, clustering, and immune subtype classification.
