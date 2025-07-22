@@ -28,6 +28,7 @@ We identified ~10 immune subpopulations, validated using canonical marker genes 
 - Performed **Leiden clustering** to detect distinct cell populations.
 
 _Image 1: UMAP of scGPT embeddings with Leiden clusters_
+<img width="685" height="431" alt="Image" src="https://github.com/user-attachments/assets/fb1860a2-5915-48b1-bfd0-e9ae1e41e11c" />
 
 ---
 
